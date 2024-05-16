@@ -2,9 +2,9 @@
 
 eu sou o aluno Eric
 
--Estou estudando na plataforma [Alura](https://cursos.alura.com.br)
--Estou me desenvolvendo na linguagem JavaScript
--utilizo este espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos !!
+- Estou estudando na plataforma [Alura](https://cursos.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- utilizo este espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos !!
 
 
 
@@ -15,4 +15,5 @@ eu sou o aluno Eric
 
 
 
-![](https://tenor.com/pt-BR/view/dog-dogs-valentinesday-golden-retriever-heart-gif-14143546451508540204)
+![]( https://tenor.com/pt-BR/view/looking-spiffy-dog-haircut-bad-haircut-gif-3038848003866845269 
+)
